@@ -1,6 +1,6 @@
 ## Hello, I'm Paulo Vinicius! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=E133F7&center=false&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=E133F7&center=false&width=435&lines=Computer+Science+Student;Back-End Developer" alt="Typing SVG" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=paul-ovinicius&show_icons=true&theme=jolly">
 <ul>
   <li>:mortar_board: <b>Computer Science</b> student at <a href="https://portal.fei.edu.br/"><b>Centro Universitário FEI</b></a>.</li>
