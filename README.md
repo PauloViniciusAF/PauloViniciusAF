@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=E133F7&center=false&width=435&lines=Computer+Science+Student;Back-End Developer" alt="Typing SVG" /></a>
 <ul>
-  <li>:mortar_board: <b>Computer Science</b> student at <a href="https://portal.fei.edu.br/"><b>Centro Universitário FEI</b></a>.</li>
+  <li>:mortar_board: <b> Science Computer</b> student at <a href="https://portal.fei.edu.br/"><b>Centro Universitário FEI</b></a>.</li>
 </ul>
 
 ## Skills
